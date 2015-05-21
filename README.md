@@ -1,5 +1,5 @@
 
-This application demonstrates how to publish data from an analog sensor with an Arduino Ethernet Shield to the STS IoT Platform community version (WoTKit). 
+This application demonstrates how to publish data from an analog sensor with an Arduino Ethernet Shield to Sense Tecnic's IoT Platform community version (WoTKit). 
 
 ## Getting Started 
 
@@ -13,7 +13,7 @@ WoTKit is a community version of the STS IoT Platform, it allows you to manage, 
 
 Our setup will be quite simple. We will be using a temperature sensor (LM35) connected to the A0 pin:
 
-![alt tag]https://raw.githubusercontent.com/SenseTecnic/wotkit-example-arduino-sensor/master/schematic_bb.jpg)
+![alt tag](https://raw.githubusercontent.com/SenseTecnic/wotkit-example-arduino-sensor/master/schematic_bb.jpg)
 
 ## Running the example.
 
