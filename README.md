@@ -13,7 +13,7 @@ WoTKit is a community version of the STS IoT Platform, it allows you to manage, 
 
 Our setup will be quite simple. We will be using a temperature sensor (LM35) connected to the A0 pin:
 
-![alt tag](https://raw.github.com/sensetecnic/wotkit-example-arduino-sensor/sechematic_bb.jpg)
+![alt tag]https://raw.githubusercontent.com/SenseTecnic/wotkit-example-arduino-sensor/master/schematic_bb.jpg)
 
 ## Running the example.
 
